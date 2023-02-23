@@ -1,6 +1,6 @@
 # GraphQLCountries
 
-A simple application for displaying country information using (Apollo Client)[https://www.apollographql.com/docs/kotlin/] and [Jetpack Compose](https://developer.android.com/jetpack/compose/).
+A simple application for displaying country information using [Apollo Client](https://www.apollographql.com/docs/kotlin/) and [Jetpack Compose](https://developer.android.com/jetpack/compose/).
 
 ## What is GraphQL?
 
